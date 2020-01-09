@@ -14,7 +14,7 @@ public class MainMenu : MonoBehaviour
         PlayerHealth.isDead = false;
         PlayerBullet.speed = 20;
         PlayerBullet.damage = 1;
-        PlayerWeapon.FireRate = 2;
+        PlayerWeapon.FireRate = 1;
         PlayerMovement.movementSpeed = 3;
     }
 
